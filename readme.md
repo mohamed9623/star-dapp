@@ -5,8 +5,9 @@ This is the 5th project for the Blockchain Developer Nanodegree. The project is 
 Token Name: [**Star Deed**](https://rinkeby.etherscan.io/tokens?q=0x3f0e08b275De4975Bc1dF73F41180F2788155493)  
 Token Symbol: **SDT**  
 Contract Address: [**0x3f0e08b275De4975Bc1dF73F41180F2788155493**](https://rinkeby.etherscan.io/address/0x3f0e08b275de4975bc1df73f41180f2788155493)
-
-
+openzeppelin-solidity": {
+      "version": "2.4.0"
+truffle version 5.1.10
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
